@@ -83,5 +83,12 @@
 
 // var current = new Date();
 // document.write("<div>","Current Date "+current+ "</div>");
-// current.setHours(21);
+// current.setHours(current.getHours()-1);
 // document.write("<div>","1 hour ago, it was "+current+ "</div>");
+
+// Assignment # 12
+
+// var current = new Date();
+// document.write("<div>","Current Year "+current+ "</div>");
+// current.setFullYear(current.getFullYear()-100);
+// document.write("<div>","100 years ago, it was "+current+ "</div>");
