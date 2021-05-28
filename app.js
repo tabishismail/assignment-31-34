@@ -63,3 +63,10 @@
 // var laterDate = new Date("31 December 2020");
 // document.write("<div>","Later Date : "+laterDate+ "</div>");
 
+// Assignment # 9
+
+// var ramadan = new Date("14 April 2021").getTime();
+// var dayPass = (ramadan / (1000 * 60 *60 *24)/365)-new Date().getDay();
+// dayPass= Math.floor(dayPass);
+
+// document.write("<div>"+dayPass+" days have passed since 1st Ramadan , 2021"+ "</div>");
