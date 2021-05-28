@@ -29,3 +29,12 @@
 //     alert("Its "+ dayName[time] + "day");
 // }
 
+// Assignment # 5
+
+// var time = new Date().getDate();
+// if(time <= 15){
+//     alert("First Fifteen days of the Month");
+// }
+// else{
+//     alert("Last days of the Month");
+// }
