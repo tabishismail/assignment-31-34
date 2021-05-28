@@ -38,3 +38,12 @@
 // else{
 //     alert("Last days of the Month");
 // }
+
+// Assignment # 6
+
+// var currentDate = new Date();
+// var milliSec=currentDate.getTime();
+// var mintes =  (milliSec/(1000*60));
+// document.write("<div>","Current Date : "+currentDate+ "</div>");
+// document.write("<div>","Elapsed milliseconds from 01 January 1970 : "+ milliSec+ "</div>");
+// document.write("<div>","Elapsed minutes from 01 January 1970 : "+ mintes+ "</div>");
