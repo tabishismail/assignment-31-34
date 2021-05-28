@@ -18,3 +18,14 @@
 // var time = new Date().getDay();
 // alert("Today is "+ dayName[time]);
 
+// Assignment # 4
+
+// var dayName= ["Sun","Mon","Tues","Weds","Thurs","Fri","Sat"];
+// var time = new Date().getDay();
+// if(time === 6 || time === 0){
+//     alert("Its Fun day");
+// }
+// else{
+//     alert("Its "+ dayName[time] + "day");
+// }
+
