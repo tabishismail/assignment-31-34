@@ -57,3 +57,9 @@
 // else{
 //     alert("Its P.M");
 // }
+
+// Assignment # 8
+
+// var laterDate = new Date("31 December 2020");
+// document.write("<div>","Later Date : "+laterDate+ "</div>");
+
