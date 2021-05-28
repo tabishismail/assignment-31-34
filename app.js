@@ -47,3 +47,13 @@
 // document.write("<div>","Current Date : "+currentDate+ "</div>");
 // document.write("<div>","Elapsed milliseconds from 01 January 1970 : "+ milliSec+ "</div>");
 // document.write("<div>","Elapsed minutes from 01 January 1970 : "+ mintes+ "</div>");
+
+// Assignment # 7
+
+// var time = new Date().getHours();
+// if(time < 12){
+//     alert("Its A.M");
+// }
+// else{
+//     alert("Its P.M");
+// }
