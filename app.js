@@ -70,3 +70,11 @@
 // dayPass= Math.floor(dayPass);
 
 // document.write("<div>"+dayPass+" days have passed since 1st Ramadan , 2021"+ "</div>");
+
+
+// Assignment # 10
+
+// var currentDate2021 = new Date().getTime()/1000;
+// var beginYear2021=new Date("01 January 2021").getTime()/1000;
+// document.write("<div>","On reference date "+currentDate2021+ "</div>");
+// document.write("<div>"+ (currentDate2021 - beginYear2021) + " seconds passed since the begining of 2021"+"</div>");
