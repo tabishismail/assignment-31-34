@@ -73,8 +73,15 @@
 
 
 // Assignment # 10
-
-// var currentDate2021 = new Date().getTime()/1000;
+// var current = new Date();
+// var currentDate2021 = current.getTime()/1000;
 // var beginYear2021=new Date("01 January 2021").getTime()/1000;
-// document.write("<div>","On reference date "+currentDate2021+ "</div>");
+// document.write("<div>","On reference date "+current+ "</div>");
 // document.write("<div>"+ (currentDate2021 - beginYear2021) + " seconds passed since the begining of 2021"+"</div>");
+
+// Assignment # 11
+
+// var current = new Date();
+// document.write("<div>","Current Date "+current+ "</div>");
+// current.setHours(21);
+// document.write("<div>","1 hour ago, it was "+current+ "</div>");
